@@ -19,7 +19,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 🧑 **Personal Informations:**
 
 - 👨🏻‍💻 I’m currently working as a Junior Java developer at KingICT
-- 🚀 I'm currently learning everything related to Web tech
+- 🚀 I'm learning everything related to Web techologies
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: React, React Native, Node, Express, Spring Boot
 - 📫 How to reach me? patrik.galina@king-ict.hr

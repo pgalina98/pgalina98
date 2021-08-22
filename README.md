@@ -1,4 +1,4 @@
-### Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pgalina98)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-galina-9b15451b4/)
@@ -16,7 +16,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-**Personal Informations:**
+🧑 **Personal Informations:**
 
 - 👨🏻‍💻 I’m currently working as a Junior Java developer at KingICT
 - 🚀 I'm currently learning everything related to Web technologies
@@ -28,14 +28,24 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 💻 **I’m currently working with:**
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style==flat-squaree&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style==flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style==flat-square&logo=redux&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style==flat-square&logo=git&logoColor=white)
-	![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style==flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style==flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style==flat-square&logo=postgresql&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style==flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style==flat-square&logo=intellij-idea&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style==flat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
 
 📈 **My GitHub Stats:**
 

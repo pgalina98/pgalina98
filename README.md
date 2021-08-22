@@ -4,8 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-galina-9b15451b4/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/patrik.galina/)
 
+<hr/>
+
 ### I'm glad to see you here! 🧑‍💻 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pgalina98.pgalina98)
-I'm a 22 years old Software Engineering student at Faculty of Organization and Informatics. I'm currently working as Junior Java developer at KingICT in Zagreb. I love programming and traveling.
+
+I'm a 22 years old Software Engineering student at Faculty of Organization and Informatics, currently working as Junior Java developer at KingICT in Zagreb. I love programming and traveling.
 
 I'm focused on developing Web applications using React and Mobile applications using React Native that will have a huge impact on client's efficiency and effectiveness or reach the target audience. I'm hardworking, insistent, precise and responsible in what I do.
 
@@ -18,10 +21,21 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 - 👨🏻‍💻 I’m currently working as a Junior Java developer at KingICT
 - 🚀 I'm currently learning everything related to Web technologies
 - 💬 Ask me about anything, I am happy to help
+- ⚡ I build with: React, React Native, Node, Express, Java, Spring Boot
 - 📫 How to reach me? patrik.galina@king-ict.hr
 - 📝 [Resume](https://drive.google.com/file/d/1bhGJx7KULIOOSKgGc0vT2GlU2GDc90ho/view?usp=sharing).
 
-</br>
+
+💻 **I’m currently working with:**
+
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style==flat-square&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style==flat-square&logo=redux&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style==flat-square&logo=git&logoColor=white)
+	![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
+
 
 📈 **My GitHub Stats:**
 

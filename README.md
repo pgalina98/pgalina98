@@ -1,4 +1,4 @@
-## Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pgalina98)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-galina-9b15451b4/)
@@ -16,7 +16,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-🧑 **Personal Informations:**
+🧑 **Personal informations:**
 
 - 👨🏻‍💻 I’m currently working as a Junior Java developer at KingICT
 - 🚀 I'm learning everything related to Web techologies

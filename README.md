@@ -47,6 +47,13 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style==flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 📈 **My GitHub Stats:**
 
 <p>

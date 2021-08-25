@@ -33,6 +33,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style==flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style==flat-square&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)

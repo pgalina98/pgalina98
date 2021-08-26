@@ -48,6 +48,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
 
 📊 **This Week I Spent My Time On:**
+[![wakatime](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo.svg)](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo)
 <!--START_SECTION:waka-->
 ```text
 JSX          2 hrs 42 mins   ███████████████████████░░   92.57 % 

@@ -50,7 +50,9 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          2 hrs 42 mins   ███████████████████████░░   92.57 % 
+JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 <!--END_SECTION:waka-->
 

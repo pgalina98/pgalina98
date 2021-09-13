@@ -32,7 +32,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style==flat-square&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style==flat-square&logo=node.js&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)

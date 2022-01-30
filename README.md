@@ -59,6 +59,6 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 <p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgalina98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pgalina98&" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pgalina98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img align="right" height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=pgalina98&" />
 </p>

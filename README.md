@@ -38,6 +38,8 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg??style==flat-square&logo=firebase)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style==flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style==flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style==flat-square&logo=postgresql&logoColor=white)

@@ -18,7 +18,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 🧑 **Personal informations:**
 
-- 👨🏻‍💻 I’m currently working as a Junior Java developer at KingICT
+- 👨🏻‍💻 I’m currently working as a Junior full stack developer at KingICT
 - 🚀 I'm learning everything related to Web technologies with current focus on Angular framework
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: React, React Native, Node, Express, Spring Boot

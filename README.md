@@ -6,7 +6,7 @@
 
 <hr/>
 
-### I'm glad to see you here! 🧑‍💻 
+### I'm glad to see you here! 💻 
 
 I'm a 23 years old Software Engineering student at Faculty of Organization and Informatics, currently working as Junior Full Stack developer (React and Spring Boot) at KingICT in Zagreb. I love programming and traveling.
 

@@ -34,6 +34,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![Next JS](https://img.shields.io/badge/Next-black?style==flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style==flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style==flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style==flat-square&logo=express&logoColor=%2361DAFB)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)

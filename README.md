@@ -19,7 +19,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 🧑 **Personal informations:**
 
 - 👨🏻‍💻 I’m currently working as a Junior Full Stack Developer at KingICT
-- 🚀 I'm learning everything related to Web technologies with current focus on NestJS framework
+- 🚀 I'm learning everything related to Web technologies with current focus on Apollo Server
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: React, React Native, Node, Express, Spring Boot
 - 📫 How to reach me? patrik.galina@king-ict.hr
@@ -39,6 +39,9 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style==flat-square&logo=graphql&logoColor=white)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style==flat-square&logo=apollo-graphql)
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg??style==flat-square&logo=firebase)
 

@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-galina-9b15451b4/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/patrik.galina/)
 
+![github-banner](https://user-images.githubusercontent.com/61492571/169666659-ec3619f0-0a94-4d0c-a410-1017dabc614b.png)
+
 <hr/>
 
 ### I'm glad to see you here! 💻 

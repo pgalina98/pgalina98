@@ -14,7 +14,9 @@ I'm focused on developing Web applications using React and Mobile applications u
 
 As a developer, I enjoy using my obsessive attention to details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<hr/>
+
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3281732/screenshots/6552930/ef066617-ce4e-45c9-ae22-1af21711119c.jpeg?compress=1&resize=450x338&vertical=top" height="250" />
 
 🧑 **Personal informations:**
 
@@ -25,6 +27,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 - 📫 How to reach me? patrik.galina@king-ict.hr
 - 📝 [Resume](https://drive.google.com/file/d/1bhGJx7KULIOOSKgGc0vT2GlU2GDc90ho/view?usp=sharing).
 
+<hr/>
 
 💻 **I’m currently working with:**
 
@@ -56,6 +59,8 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style==flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style==flat-square&logo=bitbucket&logoColor=white)
 
+<hr/>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
@@ -69,6 +74,8 @@ YAML         1 hr 10 mins    ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<hr/>
 
 📈 **My GitHub Stats:**
 

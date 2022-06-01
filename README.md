@@ -1,4 +1,4 @@
-# Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32px"> &nbsp; [![wakatime](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo.svg)](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pgalina98.pgalina98)
+# Hi there, I'm Patrik Galina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px"> &nbsp; [![wakatime](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo.svg)](https://wakatime.com/badge/github/pgalina98/SyncContributionRepo) &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pgalina98.pgalina98)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/pgalina98)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-galina-9b15451b4/)

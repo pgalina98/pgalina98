@@ -48,6 +48,8 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg??style==flat-square&logo=firebase)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style==flat-square&logo=amazon-aws&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style==flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style==flat-square&logo=redis&logoColor=white) <br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style==flat-square&logo=mysql&logoColor=white)

@@ -70,12 +70,12 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 <!--START_SECTION:waka-->
 
 ```text
-Java         20 hrs 7 mins   █████████████▒░░░░░░░░░░░   53.30 %
-HTML         4 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-TypeScript   4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-JavaScript   4 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-SQL          3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-XML          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Java         23 hrs 20 mins  ████████████████▒░░░░░░░░   65.52 %
+TypeScript   4 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+SQL          2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+JavaScript   2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+HTML         1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+XML          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->

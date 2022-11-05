@@ -8,7 +8,7 @@
 
 ### I'm glad to see you here! 💻 
 
-I'm a 24 years old Software Engineering student at Faculty of Organization and Informatics, currently working as Junior Full Stack developer (React and Spring Boot) at KingICT in Zagreb. I love programming and traveling.
+I'm a 24 years old Full Stack developer with master degree in Software Engineering, currently working as Junior Full Stack developer (React and Spring Boot) at KingICT in Zagreb. I love programming and traveling.
 
 I'm focused on developing Web applications using React and Mobile applications using React Native that will have a huge impact on client's efficiency and effectiveness or reach the target audience. I'm hardworking, insistent, precise and responsible in what I do.
 

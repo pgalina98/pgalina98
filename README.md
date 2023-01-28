@@ -20,11 +20,11 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 
 🧑 **Personal informations:**
 
-- 👨🏻‍💻 I’m currently working as a Junior Full Stack Developer at KingICT
+- 👨🏻‍💻 I’m currently working as a Full Stack Developer at DoMore
 - 🚀 I'm learning everything related to Web technologies with current focus on Next.js and Nest.js
 - 💬 Ask me about anything, I am happy to help
-- ⚡ I build with: React, React Native, Node.js (Nest.js), Java (Spring Boot)
-- 📫 How to reach me? patrik.galina@king-ict.hr
+- ⚡ I build with: Next.js, React Native, Node.js (Nest.js), Java (Spring Boot)
+- 📫 How to reach me? patrik.galina@domore.hr
 - 📝 [Resume](https://drive.google.com/file/d/1WsZdxpo3AxzflPGHY33EOFyso7uym7_E/view?usp=share_link).
 
 <hr/>

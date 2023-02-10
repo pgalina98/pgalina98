@@ -70,7 +70,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 <!--START_SECTION:waka-->
 
 ```text
-Other        29 hrs 30 mins  ███████████████▓░░░░░░░░░   62.20 %
+Other        27 hrs 12 mins  ███████████████▒░░░░░░░░░   60.85 %
 ```
 
 <!--END_SECTION:waka-->

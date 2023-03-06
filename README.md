@@ -24,7 +24,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 - 🚀 I'm learning everything related to Web technologies with current focus on Next.js and Nest.js
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: Next.js, React Native, Node.js (Nest.js), Java (Spring Boot)
-- 📫 How to reach me? patrik.galina@domore.hr
+- 📫 How to reach me? patrik@domore.hr
 - 📝 [Resume](https://drive.google.com/file/d/1WsZdxpo3AxzflPGHY33EOFyso7uym7_E/view?usp=share_link).
 
 <hr/>

@@ -41,6 +41,9 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style==flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style==flat-square&logo=express&logoColor=%2361DAFB)
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style==flat-square&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style==flat-square&logo=.net&logoColor=white)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style==flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style==flat-square&logo=spring&logoColor=white)
 

@@ -32,7 +32,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 💻 **I’m currently working with:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style==flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style==flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style==flat-square&logo=typescript&logoColor=white) <br/>
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style==flat-square&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style==flat-square&logo=next.js&logoColor=white) 

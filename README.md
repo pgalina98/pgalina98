@@ -21,6 +21,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 🧑 **Personal informations:**
 
 - 👨🏻‍💻 I’m currently working as a Full Stack Developer at DoMore
+- 💻 I’m currently working on <a href='https://evento.sh/'>evento</a>
 - 🚀 I'm learning everything related to Web technologies with current focus on Rust
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: Next.js, React Native, Node.js (Nest.js), Java (Spring Boot)

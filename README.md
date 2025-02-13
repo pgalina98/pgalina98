@@ -75,11 +75,11 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       26 hrs 39 mins  ██████████████████░░░░░░░   72.03 %
-C#               7 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-CSS              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-CSHTML           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON             32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript       22 hrs 14 mins  ████████████████▓░░░░░░░░   66.40 %
+C#               8 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+CSS              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+CSHTML           46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JSON             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->

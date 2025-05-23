@@ -26,7 +26,6 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I build with: Next.js, React Native, Node.js (Nest.js), Java (Spring Boot)
 - 📫 How to reach me? patrik@domore.hr
-- 📝 [Resume](https://drive.google.com/file/d/1WsZdxpo3AxzflPGHY33EOFyso7uym7_E/view?usp=share_link).
 
 <hr/>
 

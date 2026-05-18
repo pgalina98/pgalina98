@@ -76,7 +76,7 @@ As a developer, I enjoy using my obsessive attention to details, my unequivocal 
 ```txt
 TypeScript   15 hrs 45 mins        ████████████████▒░░░░░░░░   65.92 %
 C#           7 hrs 44 mins         ████████░░░░░░░░░░░░░░░░░   32.36 %
-Markdown     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 JSON         7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
